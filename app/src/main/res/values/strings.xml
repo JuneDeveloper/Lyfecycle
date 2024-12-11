@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lifecycle</string>
+    <string name="height">Введите рост(см)</string>
+    <string name="weight">Введите вес(кг)</string>
+    <string name="calculation">Рассчитать</string>
+    <string name="String">Поле отображения</string>
+</resources>
